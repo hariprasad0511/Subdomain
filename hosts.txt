@@ -1851,6 +1851,7 @@ kerberos
 laserjet
 lasrozas
 lasvegas
+lernraum
 listserv
 logfiles
 mailgate
