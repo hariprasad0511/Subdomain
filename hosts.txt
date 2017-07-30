@@ -273,6 +273,7 @@ oh
 ok
 om
 or
+os
 ov
 pa
 pc
@@ -383,6 +384,7 @@ zw
 a01
 a02
 abc
+acc
 act
 ads
 adv
@@ -495,6 +497,7 @@ mmd
 mom
 mp3
 mpg
+mps
 mta
 mtu
 mx1
@@ -624,6 +627,7 @@ ww3
 www
 xml
 3com
+acc2
 acid
 adam
 adsl
@@ -773,6 +777,7 @@ mx10
 mx11
 mx12
 name
+netu
 nevi
 news
 nntp
@@ -2322,6 +2327,7 @@ ceipturodeguiera
 empresaiocupacio
 forestalcatalana
 iesfredericmarti
+ins-jvicensvives
 museuculturesmon
 oficinadetreball
 serveiseducatius
