@@ -1107,7 +1107,16 @@ lotus
 lyris
 mac10
 mac11
+mail0
+mail1
 mail2
+mail3
+mail4
+mail5
+mail6
+mail7
+mail8
+mail9
 maine
 maint
 mapas
@@ -1424,6 +1433,7 @@ hermes
 hidden
 hobbes
 images
+imatge
 incavi
 inside
 intern
@@ -1456,6 +1466,7 @@ meters
 mickey
 mirror
 mobile
+moodle
 moscow
 mossos
 mou-te
@@ -1951,6 +1962,7 @@ postales
 products
 profiles
 projects
+promocio
 queremos
 raspbian
 rbcrtdes
@@ -2007,6 +2019,7 @@ windows2
 winproxy
 winserve
 wireless
+xbustins
 5acuerdos
 a.auth-ns
 academico
@@ -2070,6 +2083,7 @@ ftpserver
 galapagar
 galleries
 generales
+gestioweb
 groupwise
 habitatge
 hollywood
@@ -2171,6 +2185,7 @@ blackberry
 butlletins
 california
 canalsalut
+capellania
 cerdanyola
 chatserver
 checkpoint
@@ -2313,6 +2328,7 @@ novaxarxabus
 oklahomacity
 pennsylvania
 philadelphia
+pla-formacio
 rutasocialpp
 sanfrancisco
 saskatchewan
