@@ -6,6 +6,7 @@ parser.add_argument('-d', '--domain', help="Domain to search. Example: -d google
 parser.add_argument('-w', '--wordlist', help="Wordlist based subdomain enumeration", action='store_true', dest='wordlist')
 parser.add_argument('-b', '--bruteforce', help="Bruteforce based subdomain enumeration", action='store_true', dest='bruteforce')
 parser.add_argument('-t', '--tld', help="TLD domain discovery", action='store_true', dest='tld')
+parser.add_argument('-o', '--output', help="Output results to a file", action='store', dest='output')
 
 args = parser.parse_args()
 
@@ -56,6 +57,10 @@ if (r):
 			try:
 				get = socket.gethostbyname(subdomain.strip())
 				print "["+time.strftime('%H:%M:%S')+"] Subdomain found: "+str(subdomain)+" - "+get
+				if (args.output):
+					o = open(args.output, "a")
+					o.write(str(subdomain)+" - "+str(get)+"\n")
+					o.close()
 				if (get in subdomain_dict):
 					subdomain_dict[get].append(str(subdomain))
 				else:
@@ -100,6 +105,10 @@ if (r):
 			try:
 				get = socket.gethostbyname(domain_tld.strip())
 				print "["+time.strftime('%H:%M:%S')+"] Subdomain found: "+str(domain_tld)+" - "+get
+				if (args.output):
+					o = open(args.output, "a")
+					o.write(str(domain_tld)+" - "+str(get)+"\n")
+					o.close()
 				if domain_tld in domain_tld_list:
 					pass
 				else:
@@ -134,6 +143,10 @@ if (r):
 					try:
 						get = socket.gethostbyname(subdomain.strip())
 						print "["+time.strftime('%H:%M:%S')+"] Subdomain found: "+str(subdomain)+" - "+get
+						if (args.output):
+							o = open(args.output, "a")
+							o.write(str(subdomain)+" - "+str(get)+"\n")
+							o.close()
 						if subdomain in subdomain_list_b:
 							pass
 						else:
