@@ -472,6 +472,7 @@ fyi
 gif
 ghs
 gjm
+got
 gsp
 gsx
 gt0
@@ -1182,6 +1183,7 @@ salut
 segur
 serv2
 setup
+sgdap
 sigma
 sites
 smtp0
@@ -1216,6 +1218,7 @@ tampa
 tango
 tbsfl
 tbsny
+terra
 texas
 theta
 tiger
