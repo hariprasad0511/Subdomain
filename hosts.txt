@@ -449,6 +449,7 @@ dyn
 edi
 edu
 eid
+emo
 eng
 epc
 erp
@@ -601,8 +602,10 @@ san
 sbs
 sdd
 sec
+sed
 seu
 sim
+slc
 smc
 sms
 sol
@@ -759,6 +762,7 @@ http
 ILMI
 imap
 img0
+imma
 info
 intl
 iota
@@ -1013,6 +1017,7 @@ cache
 cadiz
 canal
 canon
+champ
 chats
 check
 cisco
@@ -1426,6 +1431,7 @@ fwsm01
 gemini
 george
 gestio
+girona
 gopher
 groups
 hawaii
@@ -1466,6 +1472,7 @@ meters
 mickey
 mirror
 mobile
+mogent
 moodle
 moscow
 mossos
@@ -1491,6 +1498,7 @@ orange
 orders
 oregon
 oxnard
+pasqua
 pcmail
 phobos
 phones
@@ -1606,6 +1614,7 @@ buggalo
 careers
 catalog
 ccivics
+cemrubi
 certify
 certsrv
 channel
@@ -1676,6 +1685,7 @@ example
 exlpore
 explore
 familia
+fapamac
 flash25
 florida
 foundry
@@ -1738,6 +1748,7 @@ network
 newyork
 nigeria
 nombres
+novaweb
 oakland
 odissea
 offices
@@ -1868,6 +1879,7 @@ certserv
 channels
 clic-acc
 clientes
+clickedu
 clusters
 colombus
 colorado
@@ -1890,6 +1902,7 @@ downtown
 educacio
 empresas
 engineer
+enxarxat
 exchange
 exterior
 external
@@ -2042,6 +2055,7 @@ cantabria
 caribbean
 castellon
 catempren
+cemlleida
 charlotte
 classroom
 cleveland
