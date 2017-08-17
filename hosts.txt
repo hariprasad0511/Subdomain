@@ -576,6 +576,7 @@ pdc
 pgp
 phi
 pic
+pin
 pix
 pki
 pm1
@@ -610,6 +611,7 @@ slc
 smc
 sms
 sol
+som
 sqa
 sql
 ssh
@@ -738,6 +740,7 @@ echo
 ecom
 eng1
 exec
+fans
 farm
 file
 find
@@ -1281,6 +1284,7 @@ backup
 biblio
 border
 boston
+botiga
 brazil
 broker
 bronze
@@ -1830,6 +1834,7 @@ upsilon
 vantive
 vendors
 vermont
+viatges
 voyager
 webcast
 webdocs
@@ -2192,6 +2197,7 @@ wisconsin
 wordpress
 17congreso
 18congreso
+abonaments
 accounting
 activestat
 affiliates
