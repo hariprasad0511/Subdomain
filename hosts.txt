@@ -142,6 +142,7 @@ er
 es
 et
 f5
+fb
 fi
 fj
 fk
@@ -466,6 +467,7 @@ esx
 eta
 eva
 fap
+faq
 far
 fax
 fbg
@@ -478,6 +480,7 @@ fsp
 ftp
 fw1
 fyi
+get
 ghs
 gif
 gjm
@@ -633,7 +636,6 @@ sql
 ssh
 ssl
 sso
-sso
 sun
 sw0
 sw1
@@ -768,6 +770,7 @@ flow
 foro
 foto
 fred
+free
 ftp-
 ftp_
 ftp0
@@ -1027,12 +1030,14 @@ agora
 alpha
 app01
 apple
+ar-ar
 as400
 atlas
 auten
 avila
 ayuda
 baker
+bg-bg
 black
 blocs
 blogs
@@ -1046,6 +1051,7 @@ bsd02
 build
 cache
 cadiz
+ca-es
 canal
 canon
 champ
@@ -1058,6 +1064,7 @@ cmail
 cocoa
 conta
 core0
+cs-cz
 cust1
 cust2
 cust3
@@ -1067,8 +1074,10 @@ cust6
 cust7
 cust8
 cust9
+da-dk
 datos
 david
+de-de
 delta
 demos
 depot
@@ -1083,11 +1092,16 @@ eagle
 earth
 e-com
 elche
+el-gr
 email
 eng01
+en-gb
+es-es
+es-la
 evifa
 feeds
 field
+fi-fi
 files
 fixes
 flash
@@ -1095,6 +1109,8 @@ foros
 forum
 fotos
 frank
+fr-ca
+fr-fr
 front
 fwsm0
 fwsm1
@@ -1115,9 +1131,11 @@ host4
 host5
 hotel
 howto
+hr-hr
 https
 ibmdb
 idaho
+id-id
 iesnx
 imail
 imap4
@@ -1127,6 +1145,8 @@ india
 ipsec
 isync
 italy
+it-it
+ja-jp
 japan
 jerez
 joves
@@ -1164,6 +1184,9 @@ mssql
 music
 mysql
 names
+nb-no
+nl-nl
+nn-no
 nokia
 north
 ocean
@@ -1183,6 +1206,7 @@ patch
 pc101
 phone
 plano
+pl-pl
 pluto
 polls
 ppclm
@@ -1201,14 +1225,18 @@ ppp21
 press
 promo
 proxy
+pt-br
+pt-pt
 qmail
 quake
 queen
 radio
 relay
 romeo
+ro-ro
 route
 rtr01
+ru-ru
 sales
 salut
 segur
@@ -1218,6 +1246,7 @@ sgdap
 sigec
 sigma
 sites
+sl-si
 smtp0
 smtp1
 smtp2
@@ -1246,6 +1275,7 @@ stock
 store
 sun01
 sun02
+sv-se
 tampa
 tango
 tbsfl
@@ -1253,11 +1283,14 @@ tbsny
 terra
 texas
 theta
+th-th
 tiger
 titan
 tokyo
 tools
+touch
 train
+tr-tr
 tulsa
 union
 users
@@ -1267,6 +1300,7 @@ vegas
 venus
 video
 vista
+vi-vn
 voice
 vpn01
 vpn02
@@ -1291,6 +1325,8 @@ xmail
 x-ray
 young
 zebra
+zh-cn
+zh-tw
 z-log
 acanet
 acceso
@@ -1306,6 +1342,7 @@ alumni
 apache
 apollo
 archie
+assets
 ateneu
 athena
 austin
@@ -1324,6 +1361,7 @@ bxform
 calvin
 canada
 canigo
+canvas
 cdnlw0
 cdnlw1
 cdnlw2
@@ -1499,12 +1537,14 @@ linux2
 lleida
 logger
 london
+madeby
 madrid
 mailer
 malaga
 manage
 marvin
 master
+mbasic
 member
 merlin
 meters
@@ -1630,6 +1670,7 @@ yankee
 yellow
 zamora
 aca-web
+account
 ads-api
 adwords
 alabama
@@ -1711,6 +1752,7 @@ default
 defiant
 detroit
 develop
+dev-web
 diagnos
 digital
 dilbert
@@ -2373,6 +2415,7 @@ webservices
 windows2000
 windows2003
 applications
+autodiscover
 ayuntamiento
 batterycheck
 biblioteques
@@ -2385,6 +2428,7 @@ conferencing
 confidential
 distributers
 estadisticas
+govtrequests
 ieslacetania
 indianapolis
 jardibotanic
