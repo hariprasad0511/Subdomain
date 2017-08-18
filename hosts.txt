@@ -136,6 +136,7 @@ ec
 ee
 eg
 eh
+el
 en
 er
 es
@@ -391,6 +392,7 @@ act
 ads
 adv
 adx
+afc
 afp
 aix
 amp
@@ -406,6 +408,9 @@ b2c
 bbs
 bdc
 bea
+bib
+bid
+bio
 bis
 biz
 bmt
@@ -449,6 +454,7 @@ dyn
 edi
 edu
 eid
+eim
 emo
 eng
 epc
@@ -460,7 +466,10 @@ esx
 eta
 eva
 fap
+far
 fax
+fbg
+ffn
 fit
 fix
 foc
@@ -469,8 +478,8 @@ fsp
 ftp
 fw1
 fyi
-gif
 ghs
+gif
 gjm
 got
 gsp
@@ -489,10 +498,13 @@ hes
 hub
 ias
 ibm
+icc
 ics
 ida
 ids
+ieb
 iis
+il3
 img
 inc
 int
@@ -501,6 +513,7 @@ iot
 irc
 isa
 ism
+iub
 koe
 lab
 lan
@@ -509,10 +522,12 @@ lib
 log
 mac
 map
+mat
 max
 mba
 mci
 mem
+mid
 mis
 mmd
 mom
@@ -552,8 +567,8 @@ ns3
 ns4
 ns5
 nt4
-ntt
 ntp
+ntt
 old
 ops
 opt
@@ -571,6 +586,7 @@ pc6
 pc7
 pc8
 pc9
+pcb
 pda
 pdc
 pgp
@@ -616,6 +632,8 @@ sqa
 sql
 ssh
 ssl
+sso
+sso
 sun
 sw0
 sw1
@@ -698,6 +716,7 @@ buzz
 cafe
 call
 caps
+ccit
 cdn0
 cdn1
 cdn2
@@ -717,6 +736,7 @@ code
 conf
 core
 corp
+crai
 ctti
 data
 db01
@@ -754,6 +774,7 @@ ftp0
 ftp2
 fw-1
 fwsm
+gaia
 gate
 gold
 golf
@@ -763,10 +784,12 @@ home
 host
 hpov
 http
+hubc
 ILMI
 imap
 img0
 imma
+imub
 info
 intl
 iota
@@ -799,6 +822,7 @@ mac3
 mac4
 mac5
 mach
+maia
 mail
 main
 mall
@@ -807,6 +831,7 @@ mars
 mary
 meet
 mgmt
+miar
 mike
 mngt
 moon
@@ -968,6 +993,7 @@ w110
 wais
 webs
 west
+wifi
 wiki
 win1
 win2
@@ -1003,6 +1029,7 @@ app01
 apple
 as400
 atlas
+auten
 avila
 ayuda
 baker
@@ -1075,6 +1102,7 @@ games
 gamma
 gauss
 gmail
+greav
 green
 group
 guest
@@ -1187,6 +1215,7 @@ segur
 serv2
 setup
 sgdap
+sigec
 sigma
 sites
 smtp0
@@ -1252,11 +1281,11 @@ world
 write
 www01
 www02
+www-1
 www10
 www15
-www20
-www-1
 www-2
+www20
 xecat
 xmail
 x-ray
@@ -1273,6 +1302,7 @@ agenda
 akamai
 alaska
 alerts
+alumni
 apache
 apollo
 archie
@@ -1304,6 +1334,7 @@ cdnlw6
 cdnlw7
 cdnlw8
 cdnlw9
+cesnid
 chrome
 citrix
 clicat
@@ -1313,6 +1344,7 @@ consum
 copier
 core01
 correo
+correu
 cpanel
 cust10
 cust11
@@ -1562,6 +1594,7 @@ system
 tacoma
 taiwan
 tauler
+tellus
 telnet
 test2k
 testxp
@@ -1615,10 +1648,12 @@ banking
 bayarea
 billing
 biztalk
+bloctic
 boulder
 britian
 buggalo
 careers
+cataleg
 catalog
 ccivics
 cemrubi
@@ -1630,6 +1665,7 @@ chicago
 classes
 clients
 cluster
+compgen
 compras
 comtech
 connect
@@ -1678,6 +1714,7 @@ develop
 diagnos
 digital
 dilbert
+diposit
 discuss
 domains
 dominio
@@ -1839,6 +1876,7 @@ voyager
 webcast
 webdocs
 webfarm
+webgrec
 webhelp
 webmail
 webring
@@ -1886,8 +1924,8 @@ cercador
 certserv
 channels
 clic-acc
-clientes
 clickedu
+clientes
 clusters
 colombus
 colorado
@@ -2008,6 +2046,7 @@ servidor
 shipping
 shoppers
 shopping
+sirecovi
 smtphost
 software
 srvcnpbs
@@ -2075,6 +2114,7 @@ corporate
 correoweb
 correuweb
 customers
+cvirtual2
 database1
 database2
 databases
@@ -2084,6 +2124,7 @@ developer
 devserver
 directory
 discovery
+divercity
 dominoweb
 downloads
 easyguard
@@ -2141,7 +2182,9 @@ newsfeeds
 northeast
 northwest
 pcsupport
+penyafort
 picasaweb
+portafoli
 portfolio
 printserv
 rapidsite
@@ -2180,6 +2223,7 @@ trailers9
 transfers
 translate
 tweetdeck
+ubenlinia
 utilities
 valdemoro
 voicemail
@@ -2215,8 +2259,8 @@ checkpoint
 cincinnati
 clicktrack
 coldfusion
-com-shi-va
 commercial
+com-shi-va
 conference
 consultant
 consulting
@@ -2293,6 +2337,7 @@ communigate
 connecticut
 consultants
 cortafuegos
+cvformacio2
 development
 discussions
 distributer
@@ -2332,6 +2377,7 @@ ayuntamiento
 batterycheck
 biblioteques
 cadiz-ciudad
+campusobert2
 canalempresa
 certificates
 concentrator
@@ -2377,6 +2423,7 @@ malaga-ciudad
 manufacturing
 massachusetts
 museuhistoria
+neurociencies
 northcarolina
 parcsnaturals
 ravalcultural
@@ -2388,12 +2435,13 @@ unitedkingdom
 administracion
 administrators
 ads-bidder-api
+campusvirtual2
 commerceserver
 humanresources
 museuetnologic
 problemtracker
-terminalserver
 seuelectronica
+terminalserver
 alcaladehenares
 arxiufotografic
 asamblea-madrid
@@ -2407,6 +2455,7 @@ bibliotecagirona
 bibliotecalleida
 castillalamancha
 ceipturodeguiera
+comercioexterior
 empresaiocupacio
 forestalcatalana
 iesfredericmarti
@@ -2418,6 +2467,7 @@ suportconnectors
 cartaarqueologica
 catalegclassicbeg
 monestirpedralbes
+accesconvocatories
 cortes-valencianas
 guarneixelteunadal
 institutmontserrat
@@ -2436,4 +2486,4 @@ treballiaferssocials
 universitatsirecerca
 ayuntamiento-valencia
 ayuntamiento-barcelona
-kango-sarriasantgervasi
+kango-sarriasantgervasibio
