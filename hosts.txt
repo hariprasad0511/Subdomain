@@ -502,6 +502,7 @@ ftp
 fw1
 fyc
 fyi
+gdt
 get
 ghs
 gif
@@ -597,6 +598,7 @@ ns5
 nt4
 ntp
 ntt
+oci
 old
 one
 ops
@@ -1233,6 +1235,7 @@ japan
 jerez
 joves
 kappa
+kiosc
 korea
 legal
 linux
@@ -1626,6 +1629,7 @@ lameva
 laptop
 launch
 lenovo
+leomas
 linkat
 linux0
 linux1
@@ -1642,6 +1646,7 @@ manage
 marvin
 master
 mbasic
+medias
 member
 merlin
 meters
@@ -1796,6 +1801,7 @@ answers
 apidocs
 aplitic
 arganda
+ariadna
 arizona
 asterix
 atlanta
@@ -1899,6 +1905,7 @@ fapamac
 finance
 flash25
 florida
+fotos02
 foundry
 foxtrot
 freebsd
@@ -1922,6 +1929,7 @@ inbound
 incasol
 include
 indiana
+ingreso
 install
 invalid
 iplanet
@@ -2130,6 +2138,7 @@ download
 downtown
 educacio
 empresas
+empreses
 engineer
 enxarxat
 esquelas
@@ -2242,6 +2251,7 @@ sirecovi
 skydrive
 smtphost
 software
+sortejos
 srvcnpbs
 students
 superman
@@ -2289,6 +2299,7 @@ arlington
 b.auth-ns
 baltimore
 barcelona
+boulevard
 broadcast
 bulletins
 c.auth-ns
@@ -2298,9 +2309,11 @@ castellon
 catempren
 cemlleida
 charlotte
+cinemania
 classroom
 cleveland
 community
+comunitat
 consultas
 consultes
 contracts
@@ -2325,6 +2338,7 @@ easyguard
 ecommerce
 education
 eldigital
+eleccions
 employees
 encrypted
 estaticos
@@ -2361,6 +2375,7 @@ louisiana
 macintosh
 maillists
 marketing
+marsupial
 media-edg
 messenger
 metropoli
@@ -2465,6 +2480,7 @@ consultant
 consulting
 copiadoras
 csdsupport
+cuponisimo
 database01
 database02
 debataigua
@@ -2475,6 +2491,7 @@ documentos
 descuentos
 ecatalunya
 e-commerce
+e-denuncia
 elmeuargus
 enterprise
 everything
@@ -2503,6 +2520,7 @@ newsgroups
 newzealand
 nosmovemos
 operations
+pago-tasas
 peoplesoft
 pittsburgh
 postmaster
@@ -2549,6 +2567,7 @@ cvformacio2
 development
 discussions
 distributer
+elmeucompte
 elmundovino
 engineering
 ensenyament
@@ -2558,6 +2577,7 @@ feinaactiva
 fuenlabrada
 governobert
 guadalajara
+hospederias
 iesvoltrera
 insbaixamar
 lamevasalut
@@ -2625,6 +2645,7 @@ pla-formacio
 rutasocialpp
 sanfrancisco
 saskatchewan
+seguroscoche
 torrelodones
 unitedstates
 universitats
@@ -2642,6 +2663,7 @@ counterstrike
 demonstration
 documentacion
 elmundoviajes
+hemerotecapdf
 iesramoncasas
 international
 ispspeedindex
@@ -2670,6 +2692,7 @@ commerceserver
 humanresources
 museuetnologic
 nosvemosencasa
+notificaciones
 potenciatupyme
 problemtracker
 seuelectronica
@@ -2695,6 +2718,7 @@ ceipturodeguiera
 comercioexterior
 congresodiferido
 empresaiocupacio
+establecimientos
 forestalcatalana
 iesfredericmarti
 ins-jvicensvives
